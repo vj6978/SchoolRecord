@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+C:\Users\Vimal James\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(192,44): warning C4552:  '+': result of expression not used
+C:\Users\Vimal James\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(213,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HelloWorld.vcxproj -> C:\Users\Vimal James\source\repos\HelloWorld\Debug\HelloWorld.exe
